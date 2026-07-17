@@ -33,6 +33,16 @@ Observe New Canvas
       ↓
 Reward = Error Before - Error After
 ```
+## Python on Ubuntu
+
+```bash
+sudo apt update
+sudo apt install -y \
+    python3 \
+    python3-venv \
+    python3-pip \
+    python-is-python3
+```
 
 ## セットアップ
 
